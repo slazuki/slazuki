@@ -11,7 +11,7 @@
   "MAX_SUPPLY": 9999,
   "WEI_COST": 10000000000000000,
   "DISPLAY_COST": 0.01,
-  "GAS_LIMIT": 21000,
+  "GAS_LIMIT": 96000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/slazuki",
   "SHOW_BACKGROUND": true
